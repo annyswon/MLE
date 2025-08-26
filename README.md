@@ -1,9 +1,15 @@
 # MLE
 
-Practical tasks for Machine Learning.
+This repository contains practical tasks and assignments for learning and applying **Machine Learning** course (ITPU - Epam).  
+Each folder includes task instructions, datasets (if applicable), and solutions/notebooks.
 
-## Files and Folders
+## Tasks Overview
 
-- Practical Task 1
-- Practical Task 2
-- Practical Task3
+### Practical Task 1
+- **Topic**: [e.g., Linear Regression, basic ML concepts]   
+
+### Practical Task 2
+- **Topic**: [e.g., Logistic Regression, classification methods]  
+
+### Practical Task 3
+- **Topic**: [e.g., Decision Trees, model evaluation]  
