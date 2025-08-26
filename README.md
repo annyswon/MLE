@@ -1,15 +1,12 @@
 # MLE
 
-This repository contains practical tasks and assignments for learning and applying **Machine Learning** course (ITPU - Epam).  
-Each folder includes task instructions, datasets (if applicable), and solutions/notebooks.
+This repo includes practical tasks for assignments in the **MLE course** (ITPU - Epam):
 
-## Tasks Overview
+- **Task 1: Core Machine Learning Techniques**  
+  Basics of ML models like regression, decision trees, and random forests, with practice on structured datasets.  
 
-### Practical Task 1
-- **Topic**: [e.g., Linear Regression, basic ML concepts]   
+- **Task 2: Advanced Machine Learning Topics**  
+  Ensemble methods (Random Forest, XGBoost) and neural networks (LeNet on CIFAR-10), focusing on model comparison and training.  
 
-### Practical Task 2
-- **Topic**: [e.g., Logistic Regression, classification methods]  
-
-### Practical Task 3
-- **Topic**: [e.g., Decision Trees, model evaluation]  
+- **Task 3: Specialized Topics**  
+  Modern areas of ML including NLP with BERT, Generative Models (GANs/VAEs), and Reinforcement Learning.  
